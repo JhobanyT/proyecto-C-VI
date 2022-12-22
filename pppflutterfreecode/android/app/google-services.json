@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "551876294389",
+    "project_id": "pppfreecode",
+    "storage_bucket": "pppfreecode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551876294389:android:3e9ee593d270a7435437bc",
+        "android_client_info": {
+          "package_name": "upeu.edu.pe.pppflutterfreecode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551876294389-bf73oqtt7mpu1qkm7efsv6qd4kjooe5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "upeu.edu.pe.pppflutterfreecode",
+            "certificate_hash": "547aa72020fe847f7df6ce40172c54987595d231"
+          }
+        },
+        {
+          "client_id": "551876294389-iaimeah98tgjlh0beg8bgseeec8moco5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxDKCGsV2a5yigIrxjf8EAHsK53nAX8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551876294389-iaimeah98tgjlh0beg8bgseeec8moco5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
